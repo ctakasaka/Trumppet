@@ -2,6 +2,8 @@
 Jodi Chan 71966600, Erik Johnston 76035344<br/>
 Wilson Stewart 34074823, Callum Takasaka 16835019
 
+## Video Link: https://www.youtube.com/watch?v=2RI4cWw-NH8&feature=youtu.be
+
 ## Preface
 
 ### Unfortunately, it is currently understood that Gerardo Zamora 25330168 would not like to be associated with this rendition of group 11's final project, as such we are submitting this chatbot on behalf of the other 4 group members of group 11, as listed above.
