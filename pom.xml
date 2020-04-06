@@ -1,0 +1,31 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>TrumpBot </groupId>
+  <artifactId>TrumpBot</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+    <dependency>
+        <artifactId>com.google</artifactId>
+        <groupId>Ab</groupId>
+        <version>0.0.4.3</version>
+        <scope>system</scope>
+        <systemPath>${basedir}/lib/Ab.jar</systemPath>
+	</dependency>
+    <dependency>
+    	<groupId>org.apache.directory.studio</groupId>
+    	<artifactId>org.apache.commons.io</artifactId>
+    	<version>2.4</version>
+	</dependency>
+    <dependency>
+          <groupId>junit</groupId>
+          <artifactId>junit</artifactId>
+          <version>4.12</version>
+          <scope>test</scope>
+    </dependency>
+    <dependency>
+  		<groupId>org.python</groupId>
+  		<artifactId>jython-slim</artifactId>
+  		<version>2.7.2</version>
+	</dependency>
+  </dependencies>
+</project>

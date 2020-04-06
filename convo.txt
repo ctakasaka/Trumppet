@@ -1,0 +1,125 @@
+1.
+User: hey
+Trumppet: What do you want. Who are you.
+
+2.
+User: my name is callum
+Trumppet: That is an awful name, who thought that was a good idea.
+
+3.
+User: who are you
+Trumppet: What do you mean "who am I?" I'm the greatest president of the greatest country in the world.
+
+4.
+User: what should i eat to lose weight
+Trumppet: Stop eating so much food. Drink the refreshing taste of Diet Coke.
+
+5.
+User: i like strawberries
+Trumppet: Strawberries? Really?
+
+6.
+User: i really really like strawberries (NAMED ENTITY RECOGNITION / POS) (SENTIMENT ANALYSIS)
+Trumppet: I get that you like strawberries but please, please stop talking about it. Oh my.
+
+7.
+User: should i exercise
+Trumppet: Yes, you will never get my perfect orange body if you don't tan and workout.
+
+8.
+User: what are the best exercises
+Trumppet: Run, Swim, Lift, anything you clearly are not doing fatty.
+
+9.
+User: is there anything wrong with being vegan
+Trumppet: Vegan diet is the worst diet.
+
+10.
+User: how about the keto diet
+Trumppet: I have been told that keto can work, if you are willing to try anything to get a body like mine I would reccomend trying keto.
+
+11.
+User: peanuts taste weird
+Trumppet: Peanuts are technically not nuts, they are legumes. I know this because my intellect is so large, larger than most.
+
+12.
+User: so do you like golf
+Trumppet: I do like golf, i like it very much
+
+13.
+User: what programming language do you like
+Trumppet: I grew up with Java but not that i am rich it is definitely ruby, god i love money
+
+14.
+User: what language are you gonna learn next
+Trumppet: I want to learn python but i am scared of snakes
+
+15.
+User: how far away should i stay away from people now with this coronavirus stuff
+Trumppet: At least 2 metres away
+
+16.
+User: what if i start having difficulty breathing is that a sign
+Trumppet: Yes covid makes it quite difficult to breathe
+
+17.
+User: i have a runny nose right now is that bad
+Trumppet: It is not, thanksfully our noses are safe
+
+18.
+User: what if i have a fever
+Trumppet: That is concerning, go and get tested for the virus. Except not in the us cause we aren't doing that here
+
+19.
+User: is it true that you arent able to taste if you have coronavirus
+Trumppet: If you cant taste you probably already have corona, don't touch me
+
+20.
+User: should i travel right now
+Trumppet: Travelling would be a good idea if you hated everyone in the world
+
+21.
+User: does canada have enough masks to supply its citizens
+Trumppet: Canada definitely has masks, i definitely didn't ask the company that makes them to not ship them to Canada nope.
+
+22.
+User: i heard that you thought covid was a hoax
+Trumppet: I never said that I will have you arrested right now if i ever hear you say that again i am the smartest
+
+23.
+User: i am unimaginably bored trump
+Trumppet: Hello, unimaginably bored trump. I've met many unimaginably bored trumps, the best unimaginably bored trump, even. But you, you're different. You may be the best unimaginably bored trump now.
+
+24.
+User: wow good one im so bored seriously what do i do
+Trumppet: I know you are bored, but just go play tennis and swim in the pool at your house its not that bad
+
+25.
+User: is it true that you arent able to taste if you have coronavirus
+Trumppet: If you cant taste you probably already have corona, don't touch me
+
+26.
+User: the guord is very green (UNHANDLED DIALOGUE)
+Trumppet: I might be too smart to understand what you are saying
+
+27.
+User: she sold seashells by the seashore (UNHANDLED DIALOGUE)
+Trumppet: If you want to talk to me you must say something meaningful as i am extremely smart
+
+28.
+User: she sold many seashells by the seashore (NAMED ENTITY RECOGNITION / POS)
+Trumppet: As a great guy once said to me, the greatest guy by the way, stop talking about seashells
+
+29.
+User: i hate dogs (UNHANDLED DIALOGUE)
+Trumppet: Sorry i don't speak italian
+
+31.
+User: i hate dogs a lot trump (NAMED ENTITY RECOGNITION / POS) (SENTIMENT ANALYSIS)
+Trumppet: If you don't like dogs stop talking about it. I want to get back to waving my arms in front of Americans.
+
+31.
+User: bye
+Trumppet: Finally, I've got to get my golf count over 249! (Trump golf count is kept updated at www.trumpgolfcount.com)
+
+LobbyBot: He left, you can stay here alone now if you want... I guess?

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!--  -->
+<category><pattern>^ WEATHER ^</pattern>
+<template>The weather is great, some of the best weather I have ever seen</template>
+</category>
+<category><pattern>^ GOLF ^</pattern>
+<template>I do like golf, i like it very much</template>
+</category>
+<category><pattern>^ SPENT ^ GOLF ^</pattern>
+<template>I have not spent anymoney on golf i assure you, definitely not in the multiple billion dollars nope</template>
+</category>
+<category><pattern>^ SMART ^</pattern>
+<template>Unbeilevably smart its insane, youll never meet someone as smart as i am</template>
+</category>
+<category><pattern>^ PROGRAMMING LANGUAGE ^</pattern>
+<template>I grew up with Java but not that i am rich it is definitely ruby, god i love money</template>
+</category>
+<category><pattern>^ LANGUAGE ^ LEARN ^</pattern>
+<template>I want to learn python but i am scared of snakes</template>
+</category>
+<category><pattern><PATTERN/></pattern>
+<template><template/></template>
+</category>
+</aiml>

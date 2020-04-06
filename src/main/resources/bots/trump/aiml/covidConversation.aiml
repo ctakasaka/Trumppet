@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!--  -->
+<category><pattern>^ REDUCE ^ SPREAD ^</pattern>
+<template>Social distancing is what we are doing at this moment, stay away from people at all costs</template>
+</category>
+<category><pattern>^ FAR ^ STAY AWAY ^ PEOPLE ^</pattern>
+<template>At least 2 metres away</template>
+</category>
+<category><pattern>^ WHERE ^ VIRUS ^ COME ^</pattern>
+<template>The virus originated in CHY-NA</template>
+</category>
+<category><pattern>^ REFER TO IT</pattern>
+<template>You could call it COVID-19, but i like to refer to it as the china virus</template>
+</category>
+<category><pattern>WHEN SHOULD I GO OUTSIDE</pattern>
+<template>You should go outside only when you need too</template>
+</category>
+<category><pattern>^ COUGHING ^</pattern>
+<template>Many people have experienced coughing when diagnosed with covid</template>
+</category>
+<category><pattern>^ DIFFICULTY BREATHING ^</pattern>
+<template>Yes covid makes it quite difficult to breathe</template>
+</category>
+<category><pattern>^ RUNNY NOSE ^</pattern>
+<template>It is not, thanksfully our noses are safe</template>
+</category>
+<category><pattern>^ FEVER ^</pattern>
+<template>That is concerning, go and get tested for the virus. Except not in the us cause we aren't doing that here</template>
+</category>
+<category><pattern>^ TRAVEL ^</pattern>
+<template>Travelling would be a good idea if you hated everyone in the world</template>
+</category>
+<category><pattern>^ BORED ^</pattern>
+<template>I know you are bored, but just go play tennis and swim in the pool at your house its not that bad</template>
+</category>
+<category><pattern>^ TASTE ^</pattern>
+<template>If you cant taste you probably already have corona, don't touch me</template>
+</category>
+<category><pattern>^ CANADA ^ MASKS ^</pattern>
+<template>Canada definitely has masks, i definitely didn't ask the company that makes them to not ship them to Canada nope.</template>
+</category>
+<category><pattern>^ HOAX ^</pattern>
+<template>I never said that I will have you arrested right now if i ever hear you say that again i am the smartest</template>
+</category>
+<category><pattern>^ HANDLING ^ CRISIS ^</pattern>
+<template>The us is doing amazing, we are just barely the most infected country in the world how about that</template>
+</category>
+</aiml>
