@@ -22,7 +22,7 @@ Wilson Stewart 34074823, Callum Takasaka 16835019
 
 ### GUI Example:
 
-![Trumppet GUI](\2020-04-05-173321_1121x700_scrot.png "Trumppet Interface")
+![Trumppet GUI](2020-04-05-173321_1121x700_scrot.png "Trumppet Interface")
 
 ## Topics
 
@@ -40,13 +40,13 @@ Wilson Stewart 34074823, Callum Takasaka 16835019
 
 ### Level 0
 
-![Level 0 DFD](\level0DFD.jpg "Level 0 DFD")
+![Level 0 DFD](level0DFD.jpg "Level 0 DFD")
 
 The user sends messages to a Python GUI which then sends it to the bot. The bot then relays its response back to the GUI which displays it for the user.
 
 ### Level 1
 
-![Level 1 DFD](\level1dfd.jpg "Level 1 DFD")
+![Level 1 DFD](level1dfd.jpg "Level 1 DFD")
 
 The user sends their message to the Python GUI which then runs the message through various processing techniques. First, a simple spellcheck is administered, followed by sentiment analysis and name entity analysis. This is accomplished in part by lemmatizing some portions of the text deemed to be potential topics. The processed message is then byte-encoded and sent to the bot through a localhost socket. The bot uses AIML expression to respond and sends the response back to the Python interface via the same socket. This is then displayed to the user via the GUI.
 
